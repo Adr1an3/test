@@ -15,3 +15,6 @@ console.log("Welcome");
 // Line of code with a bug
 
 // add new code
+// X
+// try fix one
+// final fix
