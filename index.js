@@ -4,7 +4,7 @@
 // Conflict
 // Comment 4
 // Conflict 2
-// Comment 5
+// Fixed code
 
 //TODO this is a issue @Adr1an3
 //TODO We need to write some JavaScript @Adr1an3
